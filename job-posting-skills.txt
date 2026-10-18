@@ -1,20 +1,20 @@
 Job Titles and Seniority
 
-Posting 1: Researcher (AI Lab / Quantitative Strategy Group) — Mid-to-senior research level (independent research ownership, production trading systems, $200k base).
-Posting 2: Machine Learning Scientist — Mid-to-senior research level (published research expected, high-ambiguity independent work, $190k–$320k range).
+Posting 1: Researcher (AI Lab / Quantitative Strategy Group) —> Mid-to-senior research level 
+Posting 2: Machine Learning Scientist —> Mid-to-senior research level 
 
 Skills from Posting 1
 Required
 
 Strong foundations in machine learning, statistics, optimization, and experimental design
-Demonstrated ability to conduct independent ML research (hypothesis → implementation → experimentation → evaluation)
-Deep understanding of modern deep learning architectures (transformers, foundation models, sequence models, and/or state-space models)
-Experience developing and training models (not just applying existing ones)
+Demonstrated ability to conduct independent ML research 
+Deep understanding of modern deep learning architectures 
+Experience developing and training models 
 Strong empirical judgment and ability to diagnose why approaches succeed or fail
 Strong Python programming skills with PyTorch or JAX
 Experience training and evaluating models in GPU-based environments
 
-Preferred / Particularly Relevant
+Preferred
 
 Large-scale foundation models or LLMs
 Large-scale sequence or time-series modeling
@@ -34,8 +34,8 @@ Experience working independently in high-ambiguity environments
 Published papers in NLP, Speech, or Computer Vision involving large-scale deep learning
 Familiarity with the state of the art in AI
 Bachelor’s degree or higher in CS or related field
-Research-oriented background with deep learning focus (NLP, Speech, and/or Computer Vision)
-Ability to contribute across the ML stack (architectures, data curation, evaluation, training/inference infrastructure, research, experimentation)
+Research-oriented background with deep learning focus 
+Ability to contribute across the ML stack
 
 Preferred
 
