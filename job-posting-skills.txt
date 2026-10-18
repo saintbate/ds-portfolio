@@ -1,0 +1,55 @@
+Job Titles and Seniority
+
+Posting 1: Researcher (AI Lab / Quantitative Strategy Group) — Mid-to-senior research level (independent research ownership, production trading systems, $200k base).
+Posting 2: Machine Learning Scientist — Mid-to-senior research level (published research expected, high-ambiguity independent work, $190k–$320k range).
+
+Skills from Posting 1
+Required
+
+Strong foundations in machine learning, statistics, optimization, and experimental design
+Demonstrated ability to conduct independent ML research (hypothesis → implementation → experimentation → evaluation)
+Deep understanding of modern deep learning architectures (transformers, foundation models, sequence models, and/or state-space models)
+Experience developing and training models (not just applying existing ones)
+Strong empirical judgment and ability to diagnose why approaches succeed or fail
+Strong Python programming skills with PyTorch or JAX
+Experience training and evaluating models in GPU-based environments
+
+Preferred / Particularly Relevant
+
+Large-scale foundation models or LLMs
+Large-scale sequence or time-series modeling
+Transformers, efficient attention, SSMs, Mamba, RWKV, or related architectures
+Reinforcement learning or sequential decision-making
+Self-supervised, representation, or generative learning
+Pre-training, post-training, or novel architecture research
+Distributed training and large-scale GPU workloads
+Quantitative research, financial markets, or high-frequency data
+CUDA, Triton, custom kernels, or ML performance optimization
+Agent-assisted or automated research methodologies
+
+Skills from Posting 2
+Required
+
+Experience working independently in high-ambiguity environments
+Published papers in NLP, Speech, or Computer Vision involving large-scale deep learning
+Familiarity with the state of the art in AI
+Bachelor’s degree or higher in CS or related field
+Research-oriented background with deep learning focus (NLP, Speech, and/or Computer Vision)
+Ability to contribute across the ML stack (architectures, data curation, evaluation, training/inference infrastructure, research, experimentation)
+
+Preferred
+
+Master’s or PhD
+Experience working with products
+Experience in a startup environment
+
+Skills Appearing in Both
+
+Independent research ability in high-ambiguity settings
+Deep learning / modern neural architectures
+Large-scale model development and training
+Strong empirical/experimental research skills
+Familiarity with state-of-the-art AI methods
+
+Standout Observations
+Both roles emphasize research ownership over engineering or model application, with a clear preference for people who can generate and evaluate new ideas rather than just implement papers.
