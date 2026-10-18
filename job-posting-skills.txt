@@ -49,7 +49,7 @@ Independent research ability in high-ambiguity settings
 Deep learning / modern neural architectures
 Large-scale model development and training
 Strong empirical/experimental research skills
-Familiarity with state-of-the-art AI methods
+Familiarity with state-of-the-art AI methods 
 
 Standout Observations
 Both roles emphasize research ownership over engineering or model application, with a clear preference for people who can generate and evaluate new ideas rather than just implement papers.
