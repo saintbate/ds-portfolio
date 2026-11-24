@@ -10,8 +10,10 @@ Hello! I am Nicholas Bateman, a first-year transfer student from Georgia (the st
 - Modeling
 - Python/PyTorch
 
-## DS Career GOAL's
-My current career goal is to enter quant finance as a quant researcher; here is how I plan to achieve that goal. I will become a quant researcher by building on three things firms hire on: mathematical depth, programming fluency, and evidence that I can do original research. Initially, I will use my data science degree at OSU to master probability, statistics, linear algebra, and machine learning, adding real analysis and holding a GPA of at least 3.6 so I become a serious applicant to top graduate programs. Next, I will bring my Python from beginner to professional level though daily practice, and I will apply that to real market data. The next reasonable step will be to pursue research in my undergrad with a faculty member to learn how to do proper research. After graduating, I will study in applied math for my masters/PhD, prepare for interviews, target research roles wherever I can get hired, and go from there. 
+## DS Career GOALs
+My current career goal is to enter quantitative finance as a quant researcher, and I have mapped out a step-by-step plan to get there. I plan to become a quant researcher by building on three things firms hire for: mathematical depth, programming fluency, and evidence that I can do original research. Looking back at earlier coursework in this class, I have noticed that employers mostly filter for the same skills. These skills are highly relevant to what I am learning, which makes the process even more enjoyable. That aligns directly with what draws me to data science and why I want to build on my strengths in math, statistics, and problem solving.   
+
+Initially, I will use my data science degree at OSU to master probability, statistics, linear algebra, and machine learning, while adding real analysis and maintaining a GPA of at least 3.6 so I become a competitive applicant for top graduate programs. Next, I will bring my Python from a beginner to a professional level through daily practice and apply it to real market data. The next practical step will be pursuing undergraduate research with a faculty member so I learn how to conduct rigorous research. After graduating, I plan to study ML flavored statistics in a master's or PhD program, prepare for technical interviews, target research roles where I can get hired, and build from there.
 
 ## Projects
 - Project in progress!
